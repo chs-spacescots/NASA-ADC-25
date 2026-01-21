@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-pandas = "^2.2.3"
+pandas = "^3.0.0"
 ursina = "^7.0.0"
 
 [tool.poetry.scripts]
